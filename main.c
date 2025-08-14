@@ -2,6 +2,6 @@
 
 int main(){
 
-    printf("loc "); 
+    printf("wrong");  
     return 0;
 }
